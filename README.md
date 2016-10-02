@@ -1,2 +1,2 @@
 # reset-css
-Reset CSS.
+Reset CSS help browsers render all elements more consistently.
